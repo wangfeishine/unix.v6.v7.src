@@ -1,0 +1,10 @@
+-rwxr-xr-x    1 3        1025           64 Jan 10  1979 compall
+-rw-r--r--    1 3        1025          770 Jan 10  1979 gcd.c
+-rw-r--r--    1 3        1025         2292 Jan 10  1979 madd.c
+-rw-r--r--    1 3        1025         1977 Jan 10  1979 mdiv.c
+-rwxr-xr-x    1 3        1025           69 Jan 10  1979 mklib
+-rw-r--r--    1 3        1025         2024 Jan 10  1979 mout.c
+-rw-r--r--    1 3        1025          649 Jan 10  1979 msqrt.c
+-rw-r--r--    1 3        1025         1365 Jan 10  1979 mult.c
+-rw-r--r--    1 3        1025          623 Jan 10  1979 pow.c
+-rw-r--r--    1 3        1025         1335 Jan 10  1979 util.c

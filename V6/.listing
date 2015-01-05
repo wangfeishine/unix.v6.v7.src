@@ -1,0 +1,11 @@
+drwxr-xr-x    2 3        1025         1024 May 14  1975 bin
+drwxr-xr-x    2 3        1025          512 Aug 15  1975 dev
+drwxr-xr-x    2 3        1025          512 Jul 18  1975 etc
+-rwxr-xr-x    1 0        1025        28874 Jul 18  1975 hpunix
+drwxr-xr-x    2 3        1025          512 May 14  1975 lib
+drwxr-xr-x    2 3        1025          512 May 14  1975 mnt
+-rwxr-xr-x    1 0        1025        28636 Jul 18  1975 rkunix
+-rwxr-xr-x    1 0        1025        28820 Jul 18  1975 rpunix
+drwxrwxrwx    2 3        1025          512 Jul 18  1975 tmp
+-rw-r--r--    1 0        1025        28684 Jul 18  1975 unix
+drwxr-xr-x   16 3        1025          512 Feb 26  1998 usr

@@ -1,0 +1,11 @@
+drwxr-xr-x    2 3        1025         2560 Feb 26  1998 bin
+-rwxr-xr-x    1 3        1025         6900 May 16  1979 boot
+drwxr-xr-x    2 3        1025          512 Mar 04  1998 dev
+drwxr-xr-x    2 3        1025          512 Feb 26  1998 etc
+-rwxr-xr-x    1 2        1025        53302 Jun 08  1979 hphtunix
+-rwxr-xr-x    1 2        1025        52850 Jun 08  1979 hptmunix
+drwxr-xr-x    2 3        1025          512 Feb 26  1998 lib
+-rwxr-xr-x    1 2        1025        51790 Jun 08  1979 rphtunix
+-rwxr-xr-x    1 2        1025        51274 Jun 08  1979 rptmunix
+-rwxr-xr-x    1 0        1025        51274 Jan 01  1970 unix
+drwxr-xr-x   13 3        1025          512 Feb 26  1998 usr

@@ -1,0 +1,8 @@
+-rwxr-xr-x    1 3        1025         5281 May 05  1979 compall
+drwxr-xr-x    2 3        1025          512 Feb 26  1998 crt
+drwxr-xr-x    2 3        1025          512 Feb 26  1998 csu
+drwxr-xr-x    2 3        1025         1024 Feb 26  1998 gen
+-rwxr-xr-x    1 3        1025         1595 May 05  1979 mklib
+drwxr-xr-x    2 3        1025         1024 Feb 26  1998 stdio
+drwxr-xr-x    2 3        1025         1024 Feb 26  1998 sys
+drwxr-xr-x    2 3        1025          512 Feb 26  1998 v6

@@ -1,0 +1,6 @@
+-rw-r--r--    1 3        1025          649 Jan 10  1979 enroll.c
+-rw-r--r--    1 3        1025         1935 Jan 10  1979 lib.c
+-rw-r--r--    1 3        1025          493 Jan 10  1979 makefile
+-rw-r--r--    1 3        1025         2410 Jan 10  1979 xget.c
+-rw-r--r--    1 3        1025          205 Jan 10  1979 xmail.h
+-rw-r--r--    1 3        1025         2500 Jan 10  1979 xsend.c

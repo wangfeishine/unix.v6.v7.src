@@ -1,0 +1,9 @@
+-rw-r--r--    1 3        1025          115 Jan 10  1979 access.c
+-rw-r--r--    1 3        1025          122 Jan 10  1979 chown.c
+-rw-r--r--    1 3        1025          216 Jan 10  1979 execl.c
+-rw-r--r--    1 3        1025          165 Jan 10  1979 ftime.c
+-rw-r--r--    1 3        1025          102 Jan 10  1979 gtty.c
+-rw-r--r--    1 3        1025          231 Jan 10  1979 lseek.c
+-rw-r--r--    1 3        1025         1023 Jan 10  1979 stat.c
+-rw-r--r--    1 3        1025          332 Jan 10  1979 syscall.s
+-rw-r--r--    1 3        1025          254 Jan 11  1979 time.s

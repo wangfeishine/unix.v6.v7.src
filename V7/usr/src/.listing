@@ -1,0 +1,10 @@
+drwxr-xr-x   36 0        1025         3072 Mar 31  1998 cmd
+drwxr-xr-x    3 3        1025          512 Feb 26  1998 games
+drwxr-xr-x    2 3        1025         2048 Feb 26  1998 libF77
+drwxr-xr-x    2 3        1025         1024 Feb 26  1998 libI77
+drwxr-xr-x    8 3        1025          512 Feb 26  1998 libc
+drwxr-xr-x    2 3        1025          512 Feb 26  1998 libdbm
+drwxr-xr-x    2 3        1025          512 Feb 26  1998 libfpsim
+drwxr-xr-x    2 3        1025          512 Feb 26  1998 libm
+drwxr-xr-x    2 3        1025          512 Feb 26  1998 libmp
+drwxr-xr-x    2 3        1025          512 Feb 26  1998 libplot

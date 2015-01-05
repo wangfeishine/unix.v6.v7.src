@@ -1,0 +1,9 @@
+-rw-r--r--    1 3        1025          214 Jan 10  1979 INDEX
+-rw-r--r--    1 3        1025         7054 Jan 10  1979 code.c
+-rw-r--r--    1 3        1025         7467 Jan 10  1979 local.c
+-rw-r--r--    1 3        1025        18601 Jan 10  1979 local2.c
+-rw-r--r--    1 3        1025         1046 Jan 10  1979 mac2defs
+-rw-r--r--    1 3        1025         1238 Jan 10  1979 macdefs
+-rw-r--r--    1 3        1025         2863 Jan 14  1979 makefile
+-rw-r--r--    1 3        1025        15483 Jan 10  1979 order.c
+-rw-r--r--    1 3        1025        15977 Jan 10  1979 table.c

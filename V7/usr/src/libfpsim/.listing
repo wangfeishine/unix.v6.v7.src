@@ -1,0 +1,6 @@
+-rwxr-xr-x    1 3        1025           20 Jan 10  1979 compall
+-rw-r--r--    1 3        1025         4627 Jan 10  1979 fp1.s
+-rw-r--r--    1 3        1025         2256 Mar 08  1979 fp2.s
+-rw-r--r--    1 3        1025         3385 Jan 10  1979 fp3.s
+-rw-r--r--    1 3        1025          332 Jan 10  1979 fpx.s
+-rwxr-xr-x    1 3        1025           34 Jan 23  1979 mklib
